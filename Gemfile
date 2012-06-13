@@ -38,3 +38,5 @@ gem 'jquery-rails'
 # gem 'debugger'
 
 gem 'devise', '2.1'
+gem 'cancan'
+gem 'rolify'
